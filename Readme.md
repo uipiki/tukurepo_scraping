@@ -18,3 +18,8 @@
 ```
 料理名,url
 ```
+## 実行環境
+```
+ubuntu:~$ ruby -v
+ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-darwin16]
+```
