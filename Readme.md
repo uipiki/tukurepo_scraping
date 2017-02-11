@@ -7,7 +7,7 @@
  ```sh
  ruby  cookpad-scraping.rb -d --menu "カレー" --limit 10 --cond 10
  ```
- ### option
+### option
  - `-d` debug mode
  - `--menu` 検索したいメニュー
  - `--limit` 何ページ検索するか
